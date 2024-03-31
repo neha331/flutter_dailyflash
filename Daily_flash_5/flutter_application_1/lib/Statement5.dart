@@ -1,3 +1,9 @@
+/*
+5. Create a Screen that displays 3 widgets in a Column. The image must be the
+first widget, the next widget must be a Container of color red and the 3rd
+widget must be a Container of color blue. Place all the 3 widgets in a
+Colum
+*/
 import 'package:flutter/material.dart';
 
 class Statement5 extends StatelessWidget {

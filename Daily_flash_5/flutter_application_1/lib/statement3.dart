@@ -1,4 +1,10 @@
+/*
 
+3. Create a Screen and add your image in the center of the screen below your
+image display your name in a container, give a shadow to the Container
+and give border to the container the top left and top right corners must
+be circular, with a radius of 20. Add appropriate padding to the container.
+*/
 import 'package:flutter/material.dart';
 
 class  Statement3 extends StatelessWidget {

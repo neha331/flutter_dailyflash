@@ -1,3 +1,8 @@
+/*
+4. Create a Screen in which we will display 3 Containers of Size 100,100 in a
+Row. Give color to the containers. The containers must divide the free
+space in the main axis evenly among each other
+*/
 import 'package:flutter/material.dart';
 
 class Statement4 extends StatelessWidget {

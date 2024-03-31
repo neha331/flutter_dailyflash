@@ -1,4 +1,8 @@
-
+/*
+2. Create a Screen in which we have 3 Containers in a Column each container
+must be of height 100 and width 100. Each container must have an image
+as a child.
+*/
 import 'package:flutter/material.dart';
 
 class  Statement2 extends StatelessWidget {

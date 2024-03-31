@@ -1,4 +1,10 @@
-
+/*
+1. Create a Screen, in the appBar display "Profile Information". In the body,
+display an image of size (height: 250 width:250). Below the image add
+appropriate spacing and then display the user Name and Phone Number
+vertically. The name and phone number must have a font size of 16 and a font
+weight of 500.
+*/
 import 'package:flutter/material.dart';
 
 class  Statement1 extends StatelessWidget {
